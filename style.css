@@ -1,0 +1,23 @@
+.dropdown-menu {
+    padding-right: 100px;
+}
+
+.nav-item {
+    padding: 10px;
+    padding-left: 0px;
+    padding-right: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+.navBar {
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+ 
+body {
+    background-color:lime ;
+}
